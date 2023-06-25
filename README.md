@@ -1,5 +1,5 @@
 # GenderPredictor
-This is a Python script Using OpenCV and pre-trained models to detect faces in an image and predict the gender of each detected face.
+A Python script Using OpenCV and pre-trained models to detect faces in an image and predict the gender of each detected face.
 
 ### Requirements
 » Python 3 <br>
