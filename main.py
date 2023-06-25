@@ -1,10 +1,10 @@
 import cv2
 
 
-faceProto="opencv_face_detector.pbtxt"
-faceModel="opencv_face_detector_uint8.pb"
-genderProto="gender_deploy.prototxt"
-genderModel="gender_net.caffemodel"
+faceProto="modules/opencv_face_detector.pbtxt"
+faceModel="modules/opencv_face_detector_uint8.pb"
+genderProto="modules/gender_deploy.prototxt"
+genderModel="modules/gender_net.caffemodel"
 padding=20
 conf_threshold=0.7
 meanvalues=(78.4263377603, 87.7689143744, 114.895847746)
