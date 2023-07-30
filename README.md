@@ -13,7 +13,7 @@ Open your favorite Terminal and run these commands.
 ##### 1. Clone This Repository in to Local Machine:
 
 ```sh
-gitclone https://github.com/riz4d/GenderPredictor/
+gitclone https://github.com/riz4d/GenPredictor/
 ```
 
 ##### Install Requirements:
